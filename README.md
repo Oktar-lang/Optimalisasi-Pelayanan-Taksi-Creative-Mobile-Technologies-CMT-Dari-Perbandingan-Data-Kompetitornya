@@ -1,7 +1,7 @@
 # Optimalisasi-Pelayanan-Taksi-Creative-Mobile-Technologies-CMT-Dari-Perbandingan-Data-Kompetitornya
 
 ## **File Pendukung**
-- Dataset : https://drive.google.com/drive/folders/1_p57ldlHuGtAaKQl5QHi-pDUTblyDTv-?usp=sharing
+- Dataset & PPT : https://drive.google.com/drive/folders/1_p57ldlHuGtAaKQl5QHi-pDUTblyDTv-?usp=sharing
 - Dashboard : https://public.tableau.com/app/profile/oktar.mahardika/viz/New_York_Taxi_Dashboard/Page1
   
 ## **Pendahuluan**
